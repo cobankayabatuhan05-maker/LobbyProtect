@@ -1,0 +1,6 @@
+name: LobbyProtect
+main: me.yigit.lobbyprotect.LobbyProtect
+version: 1.0.0
+api:
+  - "2.0.0"
+author: Yigit
